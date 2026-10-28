@@ -1,6 +1,5 @@
 sujan k
-<<<<<<< HEAD
+ 
 add new data sucessfully
-=======
 new data added
->>>>>>> 4270ac7 (new data)
+
